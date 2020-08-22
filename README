@@ -1,0 +1,18 @@
+Todo
+- Set API up with correct filters for Nancy
+- Set up front
+
+Main ressources
+betagouv/pop: Plateforme Ouverte du Patrimoine
+https://github.com/betagouv/pop/blob/master/apps/data/README.md
+https://www.pop.culture.gouv.fr/opendata
+
+API Doc
+Console : https://data.culture.gouv.fr/api/v1/console/records/1.0/search/
+https://data.culture.gouv.fr/api/v1/console/records/1.0/search/
+https://data.culture.gouv.fr/api/v2/console#!/dataset/getRecords 
+Ex Nancy : https://data.culture.gouv.fr/api/records/1.0/search/?dataset=liste-des-immeubles-proteges-au-titre-des-monuments-historiques&q=&facet=reg&facet=dpt_lettre&facet=commune&refine.reg=Grand+Est&refine.dpt_lettre=Meurthe-et-Moselle&refine.commune=Nancy
+https://help.opendatasoft.com/apis/ods-search-v2/#where-clause
+
+Datasets
+https://data.culture.gouv.fr/explore/dataset/liste-des-immeubles-proteges-au-titre-des-monuments-historiques/information/
